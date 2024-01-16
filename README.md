@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Masaknd_dsgn](https://img.shields.io/twitter/follow/Masaknd_dsgn?style=social)](https://twitter.com/Masaknd_dsgn)
-[![Linkedin: masahiro-kondo](https://img.shields.io/badge/-masahiro-kondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masahiro-kondo/)](https://www.linkedin.com/in/masahiro-kondo)
+[![Linkedin: masahiro-kondo](https://img.shields.io/badge/-masahirokondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masahiro-kondo/)](https://www.linkedin.com/in/masahiro-kondo)
 [![GitHub MasaKnd](https://img.shields.io/github/followers/Masaknd?label=follow&style=social)](https://github.com/Masaknd)
 
 ### <img src="https://media.giphy.com/media/26n7bkliuCEEWH7vq/giphy.gif" width="50"> A little more about me...
