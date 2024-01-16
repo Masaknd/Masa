@@ -23,6 +23,6 @@ const masa = {
 };
 ```
 
-<em><b>I'll be happy to connect people who loves creating things </b>So please hit me up to say<b> hi!</b> :)</em><img src="https://media.giphy.com/media/Z5qMRzQk4vV5qI0kM8/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="60"> <em><b>I'll be happy to connect people who loves creating things </b>So please hit me up to say<b> hi!</b> :)</em>
 
 ---
