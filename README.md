@@ -1,6 +1,6 @@
 <br>
 <h2>Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/AwQJskA3Gwhoy3XPxj/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXplbDFsNjVpcHdlMDRwYW1vMmVndHhubWFjazlvbnE2NDB5NHo2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12GGadpt5aIUQE/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="230">
 <p><em>Visual Designer / Front-End Developer
 </em></p>
 
@@ -14,13 +14,12 @@
 const masa = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Sass, PHP],
-  tools: [React, Node, Storybook, Styled - Components, Jest, Docker],
   technologies: {
     frontEnd: {
       js: ["React"],
       css: ["Tailwind"],
     },
-    graphics: [figma, Adobe XD, Blender, Illustrator, Photoshop]
+    graphics: [Figma, AdobeXD, Blender, Illustrator, Photoshop],
   },
   challenge: "Improve react.js and build interactive 3D animation web sites with three.js and GSAP",
 };
