@@ -1,5 +1,4 @@
-<br>
-<h2>Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/AwQJskA3Gwhoy3XPxj/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/AwQJskA3Gwhoy3XPxj/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="230">
 <p><em>Visual Designer / Front-End Developer
 </em></p>
@@ -24,5 +23,5 @@ const masa = {
   challenge: "Improve react.js and build interactive 3D animation web sites with three.js and GSAP",
 };
 ```
----
-<em><b>I'll be happy to connect with people who loves creating things </b>So please hit me up to say<b> hi!</b> :)</em><img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="60">
+
+<em><b>I'll be happy to connect with people who loves creating things </b>So please hit me up to say<b> hi!</b> :)</em><img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="50">
