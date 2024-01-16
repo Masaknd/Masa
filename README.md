@@ -1,5 +1,5 @@
-<h2> Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/j1qOAoraQ1FB3lbRYJ/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/vUO3OogY5WwXS/giphy-downsized-large.gif" width="230">
+<h2><img src="https://media.giphy.com/media/j1qOAoraQ1FB3lbRYJ/giphy.gif" width="50"> Hi, I'm Masa Kondo! </h2>
+<img align='right' src="https://media.giphy.com/media/3ohhwI4QBeZdeVC1na/giphy.gif" width="230">
 <p><em>Visual Designer / Front-End Developer
 </em></p>
 
@@ -7,7 +7,7 @@
 [![Linkedin: masahiro-kondo](https://img.shields.io/badge/-masahiro-kondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masahiro-kondo/)](https://www.linkedin.com/in/masahiro-kondo)
 [![GitHub MasaKnd](https://img.shields.io/github/followers/Masaknd?label=follow&style=social)](https://github.com/Masaknd)
 
-### <img src="https://media.giphy.com/media/3ohhwI4QBeZdeVC1na/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/26n7bkliuCEEWH7vq/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const masa = {
@@ -23,6 +23,6 @@ const masa = {
 };
 ```
 
-<em><b>I'll be happy to connect people who loves creating things</b>So please hit me up to say<b>hi!</b> :)</em><img src="https://media.giphy.com/media/Z5qMRzQk4vV5qI0kM8/giphy.gif" width="60">
+<em><b>I'll be happy to connect people who loves creating things </b>So please hit me up to say<b> hi!</b> :)</em><img src="https://media.giphy.com/media/Z5qMRzQk4vV5qI0kM8/giphy.gif" width="60">
 
 ---
