@@ -1,4 +1,4 @@
-<h2>Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/edJ7V5sTofpYmRb1y2/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/AwQJskA3Gwhoy3XPxj/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3ohhwI4QBeZdeVC1na/giphy.gif" width="230">
 <p><em>Visual Designer / Front-End Developer
 </em></p>
