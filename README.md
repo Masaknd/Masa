@@ -1,3 +1,4 @@
+<br>
 <h2>Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/AwQJskA3Gwhoy3XPxj/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXplbDFsNjVpcHdlMDRwYW1vMmVndHhubWFjazlvbnE2NDB5NHo2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12GGadpt5aIUQE/giphy.gif" width="230">
 <p><em>Visual Designer / Front-End Developer
@@ -14,15 +15,17 @@ const masa = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Sass, PHP],
   tools: [React, Node, Storybook, Styled - Components, Jest, Docker],
-  techCommunities: {
-    coorganizer: "AfroPython",
-    speaker: "Latinity",
-    mentor: "RailsGirls POA",
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      css: ["Tailwind"],
+    },
+    graphics: [figma, Adobe XD, Blender, Illustrator, Photoshop]
   },
-  challenge: "I'm working on ",
+  challenge: "Improve react.js and build interactive 3D animation web sites with three.js and GSAP",
 };
 ```
 
-<em><b>I'll be happy to connect with people who loves creating things </b>So please hit me up to say<b> hi!</b> :)</em><img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="60">
-
 ---
+
+<em><b>I'll be happy to connect with people who loves creating things </b>So please hit me up to say<b> hi!</b> :)</em><img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="60">
