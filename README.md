@@ -7,7 +7,7 @@
 [![Linkedin: masahiro-kondo](https://img.shields.io/badge/-masahirokondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masahiro-kondo/)](https://www.linkedin.com/in/masahiro-kondo)
 [![GitHub MasaKnd](https://img.shields.io/github/followers/Masaknd?label=follow&style=social)](https://github.com/Masaknd)
 
-### <img src="https://media.giphy.com/media/26n7bkliuCEEWH7vq/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/l1J9EldKXSxl810Zy/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const masa = {
