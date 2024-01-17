@@ -1,11 +1,11 @@
 <h1>Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/AwQJskA3Gwhoy3XPxj/giphy.gif" width="30"></h1>
-<img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="200">
 <h3><em>Visual Designer / Front-End Developer</em></h3>
 
 [![Twitter: Masaknd_dsgn](https://img.shields.io/twitter/follow/Masaknd_dsgn?style=social)](https://twitter.com/Masaknd_dsgn)
 [![Linkedin: masahiro-kondo](https://img.shields.io/badge/-masahirokondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masahiro-kondo/)](https://www.linkedin.com/in/masahiro-kondo)
 [![GitHub MasaKnd](https://img.shields.io/github/followers/Masaknd?label=follow&style=social)](https://github.com/Masaknd)
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green)
 ### A little more about me...
 
 ```javascript
@@ -23,4 +23,4 @@ const masa = {
 };
 ```
 
-<img src="https://media.giphy.com/media/l1J9EldKXSxl810Zy/giphy.gif" width="60"><em><b>I'll be happy to connect with people who loves creating things </b>So please hit me up to say<b> hi!</b> :)</em><img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/l1J9EldKXSxl810Zy/giphy.gif" width="50"><em><b>I'll be happy to connect with people who loves creating things </b>So please hit me up to say<b> hi!</b> :)</em><img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="50">
