@@ -5,7 +5,7 @@
 [![Twitter: Masaknd_dsgn](https://img.shields.io/twitter/follow/Masaknd_dsgn?style=social)](https://twitter.com/Masaknd_dsgn)
 [![Linkedin: masahiro-kondo](https://img.shields.io/badge/-masahirokondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masahiro-kondo/)](https://www.linkedin.com/in/masahiro-kondo)
 [![GitHub MasaKnd](https://img.shields.io/github/followers/Masaknd?label=follow&style=social)](https://github.com/Masaknd)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Masaknd.visitor-badge&left_color=blue&right_color=gray)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.visitor-badge&left_color=blue&right_color=gray)
 ### A little more about me...
 
 ```javascript
