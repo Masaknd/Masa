@@ -10,7 +10,7 @@
 ### A little more about me...
 
 ```javascript
-const masa = {
+const Masa = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Sass, PHP],
   technologies: {
