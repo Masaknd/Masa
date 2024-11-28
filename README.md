@@ -42,4 +42,4 @@ const Masa = {
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 
-<img src="https://media.giphy.com/media/l1J9EldKXSxl810Zy/giphy.gif" width="50">I'll be happy to connect with <b><em>people who loves creating things</em></b> So please hit me up and say<b><em>hi!</em></b><img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="50">
+I'll be happy to connect with <b><em>people who loves creating things</em></b> So please hit me up and say<b><em>hi!</em></b><img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="50">
