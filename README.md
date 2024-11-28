@@ -1,5 +1,5 @@
 <h1>Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/AwQJskA3Gwhoy3XPxj/giphy.gif" width="30"></h1>
-<img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="100">
 <h3><em>Visual Designer / Front-End Developer</em></h3>
 
 [![Twitter: Masaknd_dsgn](https://img.shields.io/twitter/follow/Masaknd_dsgn?style=social)](https://twitter.com/Masaknd_dsgn)
@@ -30,6 +30,7 @@ const Masa = {
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
