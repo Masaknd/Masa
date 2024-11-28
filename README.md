@@ -1,5 +1,4 @@
-<h1>Hi, I'm Masa Kondo! <img src="https://media.giphy.com/media/AwQJskA3Gwhoy3XPxj/giphy.gif" width="30"></h1>
-<img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="100">
+<h1>Hi, I'm Masa Kondo! <img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="100"></h1>
 <h3><em>Visual Designer / Front-End Developer</em></h3>
 
 [![Twitter: Masaknd_dsgn](https://img.shields.io/twitter/follow/Masaknd_dsgn?style=social)](https://twitter.com/Masaknd_dsgn)
@@ -15,8 +14,9 @@ const Masa = {
   code: [Javascript, Typescript, HTML, CSS, Sass, PHP],
   technologies: {
     frontEnd: {
+      framework:["Next.js"],
       js: ["React"],
-      css: ["Tailwind"],
+      css: ["scss, Tailwind"],
     },
     graphics: [Figma, AdobeXD, Blender, Illustrator, Photoshop],
   },
