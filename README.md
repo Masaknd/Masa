@@ -1,4 +1,4 @@
-<h1>Hi, I'm Masa Kondo! <img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="100"></h1>
+<h1>Hi, I'm Masa Kondo! <img align='right' src="https://media.giphy.com/media/3psNSfIttolmibldWc/giphy.gif" width="50"></h1>
 <h3><em>Visual Designer / Front-End Developer</em></h3>
 
 [![Twitter: Masaknd_dsgn](https://img.shields.io/twitter/follow/Masaknd_dsgn?style=social)](https://twitter.com/Masaknd_dsgn)
